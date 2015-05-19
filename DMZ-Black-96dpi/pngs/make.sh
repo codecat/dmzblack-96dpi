@@ -1,5 +1,5 @@
 #!/bin/sh
-mkdir ../xcursors
+mkdir -p ../xcursors
 xcursorgen left_ptr_watch.in ../xcursors/left_ptr_watch
 #xcursorgen hand1.in ../xcursors/hand1
 xcursorgen hand2.in ../xcursors/hand2
